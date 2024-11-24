@@ -1,48 +1,18 @@
-# **Projeto de Desenvolvimento Backend - JavaScript**
+# 🌟 Programação de Computadores (JavaScript) - Instituto Federal de Brasília 🌟
 
-## 📚 **Informações Gerais**
+## 👨‍🏫 Professor
+- **Leandro Vaguetti**
 
-### Instituto Federal de Brasília - Campus Taguatinga  
-**Disciplina:** Programação de Computadores 3  
-**Professor:** Leandro Vaguetti  
+## 👨‍🎓 Aluno
+- **[Tales Oliveira](https://github.com/TalesLimaOliveira)**
 
-**Autor:** [Tales Lima de Oliveira](https://github.com/TalesLimaOliveira)  
-📧 tales.oliveira@estudande.ifb.edu.br  
+## 📚 Descrição
+Repositório com o projeto desenvolvido na disciplina de **Programação de Computadores**, com foco na linguagem **JavaScript**. Este projeto tem como objetivo o desenvolvimento de uma **API Backend** para atender às demandas de um protótipo de aplicação elaborado em sala de aula. 🚀
 
-### **Objetivo do Projeto**  
-Este projeto tem como finalidade o desenvolvimento de uma **API Backend** para atender às demandas de um protótipo de aplicação criado em sala de aula.
+🔗 **Protótipo do projeto:** [Quant UX](https://app.quant-ux.com/#/test.html?h=a2aa10az2iLb0Ao2DrTWqsqFPggbOKzNwgCywsL4tRuj9wFvpRajsRkwyQ3y&ln=en)
 
-O protótipo do projeto pode ser acessado pelo link abaixo:  
-🔗 [Prototipo - Quant UX](https://app.quant-ux.com/#/test.html?h=a2aa10az2iLb0Ao2DrTWqsqFPggbOKzNwgCywsL4tRuj9wFvpRajsRkwyQ3y&ln=en)  
-
----
-
-## 🛠️ **Tecnologias Utilizadas**
-
-As tecnologias e ferramentas utilizadas no desenvolvimento incluem:  
-
-- **Node.js**: Plataforma para execução de JavaScript no lado do servidor.  
-- **Express.js**: Framework minimalista para construção de APIs RESTful.  
-- **Mongoose**: Biblioteca para modelagem e integração com MongoDB.  
-- **Postman** ou **Insomnia**: Ferramentas para testar e documentar as rotas.  
-- **JavaScript**: Linguagem principal utilizada no backend.  
-
----
-
-## 🚀 **Estrutura do Projeto**
-
-O projeto segue uma organização modular para facilitar a manutenção, leitura e escalabilidade.  
-
-    project-root/
-    ├── src/
-    │   ├── routes/
-    │   │   └── expenses.routes.js
-    │   ├── controllers/
-    │   │   └── expenses.controller.js
-    │   ├── models/
-    │   │   └── expense.model.js
-    │   ├── config/
-    │   │   └── database.js
-    │   ├── app.js
-    │   └── server.js
-    └── README.md
+### 🔍 Tópicos abordados:
+- Estruturação e manipulação de **APIs RESTful** 🌐  
+- Operações de **CRUD** (Create, Read, Update, Delete) com JavaScript 🗃️  
+- Integração com **bancos de dados** 🛢️  
+- Aplicação de **middlewares** e roteamento dinâmico ⚙️
