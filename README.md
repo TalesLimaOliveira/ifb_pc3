@@ -1,5 +1,12 @@
 # 🌟 Programação de Computadores 3 (JavaScript) - Instituto Federal de Brasília 🌟
 
+<p align="center">
+    <img src="https://img.shields.io/badge/Language-JavaScript-yellow" alt="Language">
+    <img src="https://img.shields.io/badge/Database-MongoDB-blue" alt="Database">
+    <img src="https://img.shields.io/badge/Tools-Postman-FF6C37" alt="Tools">
+    <img src="https://img.shields.io/badge/Status-Active-success" alt="Status">
+</p>
+
 ## 👨‍🏫 Professor
 - **Leandro Vaguetti**
 
