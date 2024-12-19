@@ -10,7 +10,7 @@
 - **Leandro Vaguetti**
 
 ## 👨‍🎓 Alunos
-- **[Arthur]**
+- **[Arthur Ferreira]()**
 - **[David Caldas](https://github.com/caldasdv)**
 - **[Tales Oliveira](https://github.com/TalesLimaOliveira)**
 
@@ -54,15 +54,14 @@ Este é um sistema completo para a gestão de um condomínio, que permite realiz
 
 ### 📂 Estrutura do Projeto
 
-| **Diretório/Arquivo** | **Descrição**                                 |
-|-----------------------|-----------------------------------------------|
-| ├`src/`               | Contém os arquivos principais do projeto.     |
-| │  ├─`controllers/`   | Lógica de controle das rotas.                 |
-| │  ├─`models/`        | Modelo de dados para usuários.                |
-| │  ├─`routers/`       | Rotas da aplicação.                           |
-| │  └─`index.js`       | Ponto de entrada da aplicação.                | 
-| ├`package.json`       | Configurações do projeto e dependências.      |
-| └`README.md`          | Documentação do projeto (este arquivo).       |
+| **Diretório/Arquivo** | **Descrição**                             |
+|-------------------|-----------------------------------------------|
+| ├`controllers/`   | Lógica de controle das rotas.                 |
+| ├`models/`        | Modelo de dados para usuários.                |
+| ├`routers/`       | Rotas da aplicação.                           |
+| ├`index.js`       | Ponto de entrada da aplicação.                | 
+| ├`package.json`   | Configurações do projeto e dependências.      |
+| └`README.md`      | Documentação do projeto (este arquivo).       |
 
 ---
 
