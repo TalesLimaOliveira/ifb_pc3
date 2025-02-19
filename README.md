@@ -28,7 +28,11 @@ Repositório com o projeto desenvolvido na disciplina de **Programação de Comp
 ## Sistema de Gestão de Condomínio
 Este é um sistema completo para a gestão de um condomínio, que permite realizar o cadastro de usuários, unidades, reservas, controle financeiro, ocorrências, encomendas, avisos, entre outras funcionalidades. Ele possui uma API RESTful desenvolvida com Node.js e MongoDB, permitindo fácil integração e gerenciamento do condomínio
 
-### 🔗 Protótipo do projeto: [Quant UX](https://app.quant-ux.com/#/test.html?h=a2aa10az2iLb0Ao2DrTWqsqFPggbOKzNwgCywsL4tRuj9wFvpRajsRkwyQ3y&ln=en)
+## 🔗 Links
+
+### Protótipo FrontEnd: [Quant UX](https://app.quant-ux.com/#/test.html?h=a2aa10az2iLb0Ao2DrTWqsqFPggbOKzNwgCywsL4tRuj9wFvpRajsRkwyQ3y&ln=en)
+### BackEnd: [Replit](https://replit.com/@caldasdv/Projeto-Sistema-de-Condominio)
+### Postman: [Reqbin](https://reqbin.com/)
 
 ---
 
