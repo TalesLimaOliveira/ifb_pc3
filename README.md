@@ -12,6 +12,7 @@
 ## 👨‍🎓 Alunos
 - **[Arthur Ferreira](https://github.com/Necronomicatto)**
 - **[David Caldas](https://github.com/caldasdv)**
+- **Lucas Victor**
 - **[Tales Oliveira](https://github.com/TalesLimaOliveira)**
 
 ## 📚 Descrição
