@@ -32,6 +32,7 @@ Este é um sistema completo para a gestão de um condomínio, que permite realiz
 
 ### Protótipo FrontEnd: [Quant UX](https://app.quant-ux.com/#/test.html?h=a2aa10az2iLb0Ao2DrTWqsqFPggbOKzNwgCywsL4tRuj9wFvpRajsRkwyQ3y&ln=en)
 ### BackEnd: [Replit](https://replit.com/@caldasdv/Projeto-Sistema-de-Condominio)
+### FrontEnd: [Snack Expo Dev](https://snack.expo.dev/@talesoliveira/pc3_gestao_condominio)
 ### Postman: [Reqbin](https://reqbin.com/)
 
 ---
